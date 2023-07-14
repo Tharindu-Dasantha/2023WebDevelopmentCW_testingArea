@@ -29,20 +29,17 @@ body {
 }
 
 /* designing the main part of the page */
+.products {
+  padding: 20px;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
 
 .product {
-  width: 90%;
-  background-color: #f9f9f9;
+  display: inline-block;
   margin-top: 5px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 20px;
-  display: flex;
-  gap: 20px;
-  justify-content: center;
-  align-items: start;
-  margin-left: auto;
-  margin-right: auto; 
 }
 
 .imagePart {
@@ -50,25 +47,26 @@ body {
 }
 
 .imagePart img {
-  width: 300px;
-  height: 150px;
+  width: 500px;
+  height: 300px;
 
-  border-radius: 10px 10px 0 0;
+  border-radius: 20px;
 }
 
 .imgBottom {
-  position: relative;
-  bottom: 10px;
-  left: 0;
-  width: 93.4%;
-  height: 40px;
+  position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
+  bottom: 4px;
+  left: 0;
+  width: 96%;
+  height: 90px;
   padding: 10px;
-  color: #fff;
-  border-radius: 0 0 10px 10px;
+  border-radius: 0 0 20px 20px;
 }
 
 .imgTagRight {
+  margin-top: 16px;
+  margin-right: 10px;
   float: right;
 }
 
@@ -77,22 +75,22 @@ body {
 }
 
 .title {
-  font-size: 20px;
-  margin: 10px 5px;
+  color: #f9f9f9;
+  font-size: 30px;
+  margin: 10px 5px 0;
+  opacity: 1;
 }
 
-.imgTagRight p {
-  font-size: 10px;
-  margin: 2px 5px;
+.realese_data {
+  margin-left: 10px;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.6);
 }
 
-.descriptionPart {
-  margin-top: 15px;
-}
-
-.descriptionPart p {
+.epiCount {
+  margin-left: 10px;
   font-size: 13px;
-  margin-bottom: 10px;
+  color: rgba(255, 255, 255, 1);
 }
 
 .bottom {
@@ -104,17 +102,20 @@ body {
 }
 
 .price {
-  font-size: 18px;
+  font-size: 25px;
   margin-right: 10px;
+  color: #27ff04;
 }
 
 button {
-  padding: 8px 16px;
+  padding: 7px 15px;
   background-color: #4caf50;
   color: #fff;
   border: none;
-  border-radius: 4px;
+  border-radius: 10px;
   cursor: pointer;
+  font-size: 11px;
+  margin-top: 14px;
 }
 
 /* @media screen and (max-width: 768px) {

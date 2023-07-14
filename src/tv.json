@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "title": "Game of Thrones",
+      "image": "src/image/onePunchMan.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Fantasy, Drama",
+      "price": 10.0
+    },
+    {
+      "title": "Breaking Bad",
+      "image": "src/image/Naruto.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 19.99
+    },
+    {
+      "title": "Friends",
+      "image": "src/image/bleach.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Sitcom",
+      "price": 20.0
+    },
+    {
+      "title": "Stranger Things",
+      "image": "src/image/jujutsu kaisen.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Science Fiction, Horror",
+      "price": 20.0
+    },
+    {
+      "title": "The Office",
+      "image": "src/image/owari no seraph.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Mockumentary, Comedy",
+      "price": 20.0
+    },
+    {
+      "title": "The Crown",
+      "image": "src/image/Sword art Online.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Historical, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Sherlock",
+      "image": "src/image/death note.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Black Mirror",
+      "image": "src/image/Berserker.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Anthology, Sci-Fi",
+      "price": 20.0
+    },
+    {
+      "title": "The Big Bang Theory",
+      "image": "src/image/demon slayer.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Sitcom",
+      "price": 20.0
+    },
+    {
+      "title": "Mindhunter",
+      "image": "src/image/onePiece.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Narcos",
+      "image": "src/image/fate.png",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "The Walking Dead",
+      "image": "src/image/seven deadly sins.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Horror, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Money Heist",
+      "image": "src/image/Heavenly.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "The Mandalorian",
+      "image": "src/image/Jobless reincarnation.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Science Fiction, Adventure",
+      "price": 20.0
+    },
+    {
+      "title": "The Simpsons",
+      "image": "src/image/Tensura.jpeg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Animation, Sitcom",
+      "price": 20.0
+    },
+    {
+      "title": "WestWorld",
+      "image": "src/image/no game no life.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Science Fiction, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Peaky Blinders",
+      "image": "src/image/darling in the franxx.png",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "The Witcher",
+      "image": "src/image/Cowboy bebop.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Fantasy, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "image": "src/image/chainsawMan.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Sitcom, Comedy",
+      "price": 20.0
+    },
+    {
+      "title": "The Good Place",
+      "image": "src/image/Pokemon.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Comedy, Fantasy",
+      "price": 20.0
+    },
+    {
+      "title": "Homeland",
+      "image": "src/image/Dragon ball.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Drama, Thriller",
+      "price": 20.0
+    },
+    {
+      "title": "True Detective",
+      "image": "src/image/attack on titan.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Better Call Saul",
+      "image": "src/image/tokyogoul.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Crime, Drama",
+      "price": 20.0
+    },
+    {
+      "title": "Downton Abbey",
+      "image": "src/image/Naruto Shippuden.jpg",
+      "time": "2012",
+      "Count": "100",
+      "Genre": "Historical, Drama",
+      "price": 20.0
+    }
+  ]
+}

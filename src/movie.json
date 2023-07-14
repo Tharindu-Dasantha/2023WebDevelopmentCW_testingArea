@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "title": "Interstellar",
+      "image": "src/image/onePunchMan.jpg",
+      "time": "2012",
+      "Genre": "Sci-Fi, Drama",
+      "price": 10.00
+    },
+    {
+      "title": "Tenet",
+      "image": "src/image/Naruto.jpg",
+      "Genre": "100",
+      "time": "2012",
+      "price": 20.00
+    },
+    {
+      "title": "The Godfather",
+      "image": "src/image/bleach.jpg",
+      "time": "2012",
+      "Genre": "Crime, Drama",
+      "price": 20.00
+    },
+    {
+      "title": "The Dark Knight",
+      "image": "src/image/jujutsu kaisen.jpg",
+      "time": "2012",
+      "Genre": "Action, Crime",
+      "price": 20.00
+    },
+    {
+      "title": "Inception",
+      "image": "src/image/owari no seraph.jpg",
+      "time": "2012",
+      "Genre": "Sci-Fi, Thriller",
+      "price": 20.00
+    },
+    {
+      "title": "Topgun",
+      "image": "src/image/Sword art Online.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Godzilla",
+      "image": "src/image/death note.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Godzilla 2",
+      "image": "src/image/Berserker.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Godzilla vs Kong",
+      "image": "src/image/demon slayer.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Terminator",
+      "image": "src/image/onePiece.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "San Andreas",
+      "image": "src/image/fate.png",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Rampage",
+      "image": "src/image/seven deadly sins.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Gravity",
+      "image": "src/image/Heavenly.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "Moon Fall",
+      "image": "src/image/Jobless reincarnation.jpg",
+      "time": "2012",
+      "Genre": "100",
+      "price": 20.00
+    },
+    {
+      "title": "The Matrix",
+      "image": "src/image/Tensura.jpeg",
+      "time": "2012",
+      "Genre": "Sci-Fi, Action",
+      "price": 20.00
+    },
+    {
+      "title": "Fight Club",
+      "image": "src/image/no game no life.jpg",
+      "time": "2012",
+      "Genre": "Drama, Thriller",
+      "price": 20.00
+    },
+    {
+      "title": "Schindler's List",
+      "image": "src/image/darling in the franxx.png",
+      "time": "2012",
+      "Genre": "Historical, Drama",
+      "price": 20.00
+    },
+    {
+      "title": "Forrest Gump",
+      "image": "src/image/Cowboy bebop.jpg",
+      "time": "2012",
+      "Genre": "Drama, Comedy",
+      "price": 20.00
+    },
+    {
+      "title": "The Lord of the Rings",
+      "image": "src/image/chainsawMan.jpg",
+      "time": "2012",
+      "Genre": "Fantasy, Adventure",
+      "price": 20.00
+    },
+    {
+      "title": "The Social Network",
+      "image": "src/image/Pokemon.jpg",
+      "time": "2012",
+      "Genre": "Drama, Biography",
+      "price": 20.00
+    },
+    {
+      "title": "Whiplash",
+      "image": "src/image/Dragon ball.jpg",
+      "time": "2012",
+      "Genre": "Drama, Music",
+      "price": 20.00
+    },
+    {
+      "title": "The Departed",
+      "image": "src/image/attack on titan.jpg",
+      "time": "2012",
+      "Genre": "Crime, Thriller",
+      "price": 20.00
+    },
+    {
+      "title": "The Prestige",
+      "image": "src/image/tokyogoul.jpg",
+      "time": "2012",
+      "Genre": "Mystery, Drama",
+      "price": 20.00
+    },
+    {
+      "title": "The Lion King",
+      "image": "src/image/Naruto Shippuden.jpg",
+      "time": "2012",
+      "Genre": "Animation, Adventure",
+      "price": 20.00
+    }
+  ]
+}
+
