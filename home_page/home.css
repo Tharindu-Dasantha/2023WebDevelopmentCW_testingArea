@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 80px;
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(150, 150, 175, 0.6);
+}
+
+.top {
+    height: 100vh;
+    width: 100vw;
+}
+
+.main-top__background {
+    width: 100%;
+    height: 100%;
+    background-image: url("img/Background.jpg");
+    filter: brightness(50%);
+    z-index: -1;
+}
+
+.main-top__background > .main-top__slider > img{
+    
+}
+

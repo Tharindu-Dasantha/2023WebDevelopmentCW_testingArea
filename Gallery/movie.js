@@ -1,3 +1,15 @@
+document.addEventListener("DOMContentLoaded", function () {
+  // adding an active class to the currently active page link
+  const currentPage = window.location.pathname.split("/").pop();
+  const links = document.querySelectorAll(".gallery ul li a");
+
+  links.forEach((link) => {
+    if (link.getAttribute("href") === currentPage) {
+      link.classList.add("active");
+    }
+  });
+});
+
 // Fetch the JSON file
 fetch("src/movie.json")
   .then((response) => response.json())
@@ -35,4 +47,3 @@ fetch("src/movie.json")
     });
   })
   .catch((error) => console.error(error));
-

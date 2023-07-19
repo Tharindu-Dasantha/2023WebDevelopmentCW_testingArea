@@ -2,7 +2,7 @@
   "products": [
     {
       "title": "Game of Thrones",
-      "image": "src/image/onePunchMan.jpg",
+      "image": "src/image/tvshows/game of thrones.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Fantasy, Drama",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Breaking Bad",
-      "image": "src/image/Naruto.jpg",
+      "image": "src/image/tvshows/breaking bad.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Friends",
-      "image": "src/image/bleach.jpg",
+      "image": "src/image/tvshows/friends.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Sitcom",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Stranger Things",
-      "image": "src/image/jujutsu kaisen.jpg",
+      "image": "src/image/tvshows/Stranger Things.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Science Fiction, Horror",
@@ -34,7 +34,7 @@
     },
     {
       "title": "The Office",
-      "image": "src/image/owari no seraph.jpg",
+      "image": "src/image/tvshows/the office.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Mockumentary, Comedy",
@@ -42,7 +42,7 @@
     },
     {
       "title": "The Crown",
-      "image": "src/image/Sword art Online.jpg",
+      "image": "src/image/tvshows/The Crown.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Historical, Drama",
@@ -50,7 +50,7 @@
     },
     {
       "title": "Sherlock",
-      "image": "src/image/death note.jpg",
+      "image": "src/image/tvshows/Sherlock.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Black Mirror",
-      "image": "src/image/Berserker.jpg",
+      "image": "src/image/tvshows/black mirror.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Anthology, Sci-Fi",
@@ -66,7 +66,7 @@
     },
     {
       "title": "The Big Bang Theory",
-      "image": "src/image/demon slayer.jpg",
+      "image": "src/image/tvshows/Big bang theory.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Sitcom",
@@ -74,7 +74,7 @@
     },
     {
       "title": "Mindhunter",
-      "image": "src/image/onePiece.jpg",
+      "image": "src/image/tvshows/mindhunter.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Narcos",
-      "image": "src/image/fate.png",
+      "image": "src/image/tvshows/narcos.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -90,7 +90,7 @@
     },
     {
       "title": "The Walking Dead",
-      "image": "src/image/seven deadly sins.jpg",
+      "image": "src/image/tvshows/the walking dead.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Horror, Drama",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Money Heist",
-      "image": "src/image/Heavenly.jpg",
+      "image": "src/image/tvshows/money hist.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -106,7 +106,7 @@
     },
     {
       "title": "The Mandalorian",
-      "image": "src/image/Jobless reincarnation.jpg",
+      "image": "src/image/tvshows/the mandalorian.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Science Fiction, Adventure",
@@ -114,7 +114,7 @@
     },
     {
       "title": "The Simpsons",
-      "image": "src/image/Tensura.jpeg",
+      "image": "src/image/tvshows/the simpsons.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Animation, Sitcom",
@@ -122,7 +122,7 @@
     },
     {
       "title": "WestWorld",
-      "image": "src/image/no game no life.jpg",
+      "image": "src/image/tvshows/westworld.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Science Fiction, Drama",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Peaky Blinders",
-      "image": "src/image/darling in the franxx.png",
+      "image": "src/image/tvshows/peaky blinders.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -138,7 +138,7 @@
     },
     {
       "title": "The Witcher",
-      "image": "src/image/Cowboy bebop.jpg",
+      "image": "src/image/tvshows/the witcher.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Fantasy, Drama",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Brooklyn Nine-Nine",
-      "image": "src/image/chainsawMan.jpg",
+      "image": "src/image/tvshows/brooklyn nine nine.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Sitcom, Comedy",
@@ -154,7 +154,7 @@
     },
     {
       "title": "The Good Place",
-      "image": "src/image/Pokemon.jpg",
+      "image": "src/image/tvshows/the good place.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Comedy, Fantasy",
@@ -162,7 +162,7 @@
     },
     {
       "title": "Homeland",
-      "image": "src/image/Dragon ball.jpg",
+      "image": "src/image/tvshows/homeland.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Drama, Thriller",
@@ -170,7 +170,7 @@
     },
     {
       "title": "True Detective",
-      "image": "src/image/attack on titan.jpg",
+      "image": "src/image/tvshows/true detective.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Better Call Saul",
-      "image": "src/image/tokyogoul.jpg",
+      "image": "src/image/tvshows/better call saul.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Crime, Drama",
@@ -186,7 +186,7 @@
     },
     {
       "title": "Downton Abbey",
-      "image": "src/image/Naruto Shippuden.jpg",
+      "image": "src/image/tvshows/Downton Abbey.jpg",
       "time": "2012",
       "Count": "100",
       "Genre": "Historical, Drama",

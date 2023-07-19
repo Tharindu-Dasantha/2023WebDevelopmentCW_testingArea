@@ -13,33 +13,84 @@ body {
   background-color: #333;
   color: #fff;
   padding: 20px;
+  padding-right: 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.header h1 {
-  font-size: 24px;
+.logo {
+  width: 200px;
 }
 
-.header input[type="text"] {
-  padding: 6px 10px;
-  border-radius: 2px;
-  border: none;
+/* styling the nav elements */
+.gallery ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.gallery ul li {
+  display: flex;
+  align-items: flex-end;
+}
+
+.gallery ul li a {
+  position: relative;
+  text-decoration: none;
+  color: #f9f9f9;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.gallery ul li a::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 5px;
+  background-color: #fff;
+  transition: width 0.3s;
+}
+
+.gallery ul li a:hover:not(.active):after {
+  width: 100%;
+}
+
+.gallery ul li a.active {
+  font-size: 30px;
+  border: 2px solid #f9f9f9;
+  padding: 2px 5px;
+}
+
+.rest ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.rest ul li a {
+  text-decoration: none;
+  color: #f9f9f9;
 }
 
 /* designing the main part of the page */
 .products {
-  padding: 20px;
-  background-color: black;
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  justify-content: center;
+  padding: 20px;
+  background-color: black;
+  gap: 20px 50px;
 }
 
 .product {
   display: inline-block;
   margin-top: 5px;
+  box-shadow: 2px 2px 4px rgba(100, 100, 100, 0.9);
+  border-radius: 20px;
 }
 
 .imagePart {
