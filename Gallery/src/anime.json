@@ -2,168 +2,168 @@
   "products": [
     {
       "title": "One Punch Man",
-      "image": "src/image/onePunchMan.jpg",
+      "image": "src/image/anime/onePunchMan.jpg",
       "time": "2012",
       "Count": "100",
       "price": 10.00
     },
     {
       "title": "Naruto",
-      "image": "src/image/Naruto.jpg",
+      "image": "src/image/anime/Naruto.jpg",
       "Count": "100",
       "time": "2012",
       "price": 20.00
     },
     {
       "title": "Bleach",
-      "image": "src/image/bleach.jpg",
+      "image": "src/image/anime/bleach.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Jujutsu kaisen",
-      "image": "src/image/jujutsu kaisen.jpg",
+      "image": "src/image/anime/jujutsu kaisen.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Owari no seraph",
-      "image": "src/image/owari no seraph.jpg",
+      "image": "src/image/anime/owari no seraph.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Sword art online",
-      "image": "src/image/Sword art Online.jpg",
+      "image": "src/image/anime/Sword art Online.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Death note",
-      "image": "src/image/death note.jpg",
+      "image": "src/image/anime/death note.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Berserker",
-      "image": "src/image/Berserker.jpg",
+      "image": "src/image/anime/Berserker.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Demon Slayer",
-      "image": "src/image/demon slayer.jpg",
+      "image": "src/image/anime/demon slayer.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "One piece",
-      "image": "src/image/onePiece.jpg",
+      "image": "src/image/anime/onePiece.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Fate",
-      "image": "src/image/fate.png",
+      "image": "src/image/anime/fate.png",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Seven deadly sins",
-      "image": "src/image/seven deadly sins.jpg",
+      "image": "src/image/anime/seven deadly sins.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Heavenly delusions",
-      "image": "src/image/Heavenly.jpg",
+      "image": "src/image/anime/Heavenly.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Jobless reincarnation",
-      "image": "src/image/Jobless reincarnation.jpg",
+      "image": "src/image/anime/Jobless reincarnation.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Tensura",
-      "image": "src/image/Tensura.jpeg",
+      "image": "src/image/anime/Tensura.jpeg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "No game no life",
-      "image": "src/image/no game no life.jpg",
+      "image": "src/image/anime/no game no life.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Darling in the franxx",
-      "image": "src/image/darling in the franxx.png",
+      "image": "src/image/anime/darling in the franxx.png",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Cowboy bebop",
-      "image": "src/image/Cowboy bebop.jpg",
+      "image": "src/image/anime/Cowboy bebop.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Chainsaw Man",
-      "image": "src/image/chainsawMan.jpg",
+      "image": "src/image/anime/chainsawMan.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Pokemon",
-      "image": "src/image/Pokemon.jpg",
+      "image": "src/image/anime/Pokemon.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Dragon ball",
-      "image": "src/image/Dragon ball.jpg",
+      "image": "src/image/anime/Dragon ball.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Attack on Titan",
-      "image": "src/image/attack on titan.jpg",
+      "image": "src/image/anime/attack on titan.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Tokyo ghoul",
-      "image": "src/image/tokyogoul.jpg",
+      "image": "src/image/anime/tokyogoul.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00
     },
     {
       "title": "Naruto Shippuden",
-      "image": "src/image/Naruto Shippuden.jpg",
+      "image": "src/image/anime/Naruto Shippuden.jpg",
       "time": "2012",
       "Count": "100",
       "price": 20.00

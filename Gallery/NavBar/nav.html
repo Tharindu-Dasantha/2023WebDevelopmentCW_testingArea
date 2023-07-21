@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="nav-bar">
+      <div class="left">
+        <img src="../src/image/logo/logo.png" alt="Company Logo" />
+      </div>
+      <div class="center">
+        <ul>
+          <li>
+            <a href="../movie.html" class="">Movie</a>
+          </li>
+          <li>
+            <a href="../anime.html" class="">Anime</a>
+          </li>
+          <li>
+            <a href="../tv.html" class="">Tv Show</a>
+          </li>
+          <li>
+            <a href="../cartoon.html" class="">Cartoon</a>
+          </li>
+        </ul>
+      </div>
+      <div class="right">
+        <ul>
+          <li>
+            <a href="#">About us</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+          <li>
+            <a href="#">Quiz</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // adding an active class to the currently active page link
+        const currentPage = window.location.pathname.split("/").pop();
+        const links = document.querySelectorAll("ul li a");
+
+        links.forEach((link) => {
+          if (link.getAttribute("href") === currentPage) {
+            link.classList.add("active");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
