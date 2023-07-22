@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Fetch the JSON file
-fetch("src/movie.json")
+fetch("src/cartoon.json")
   .then((response) => response.json())
   .then((data) => {
     // Access the product elements in the JSON file
