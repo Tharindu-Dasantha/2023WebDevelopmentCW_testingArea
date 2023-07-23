@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap");
+
+/* Sitemap */
+#title {
+  background-color: rgb(0, 0, 0);
+  color: rgb(174, 174, 174);
+  padding: 2px;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Rubik Mono One', sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* Declaring the size of the whole svg */
+#svgDiagram {
+  width: 100%;
+  height: 300px;
+}
+
+/* Lines connecting the rectangles of svg */
+.lines {
+  stroke: rgb(184, 184, 184);
+  stroke-width: 4px;
+}
+
+/* Rectangles of svg */
+.boxes rect {
+  fill: rgb(184, 184, 184);
+  stroke-width: 0.5px;
+  stroke: rgb(30, 46, 48);
+  transition: fill 0.3s ease;
+}
+
+/* Add the hover animation for rectangles */
+.boxes rect:hover {
+  fill: #727b81;
+}
+
+/* Words inside the rectangles of the svg */
+.boxes text {
+  color: darkturquoise;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  pointer-events: none;
+  dominant-baseline: middle;
+  text-anchor: middle;
+}

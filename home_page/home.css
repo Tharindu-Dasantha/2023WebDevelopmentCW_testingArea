@@ -181,7 +181,11 @@ main {
 .bar {
   width: 75px;
   height: 5px;
-  background-color: white;
+  background-color: rgb(136, 133, 133);
+}
+
+.active-bar {
+  background-color: rgb(165, 164, 164);
 }
 
 .bottom {
@@ -189,10 +193,17 @@ main {
 }
 
 /* The tiles of the for gallery items */
-.tiles {
+.bottom {
   background-color: #111;
   width: 99vw;
   height: 50vh;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.tiles {
+  width: 75%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -200,6 +211,100 @@ main {
 
 .tile {
   background-color: white;
-  width: 50px;
-  height: 150px;
+  width: 200px;
+  height: 300px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.movie {
+  background-image: url("../src/HomePage/FilmHome.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.anime {
+  background-image: url("../src/HomePage/Anime.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.tv {
+  background-image: url("../src/HomePage/TvShow.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.cartoon {
+  background-image: url("../src/HomePage/Cartoon.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.shown {
+  position: relative;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: filter 0.5s, top 0.5s;
+
+}
+
+.shown h4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  padding: 5px 20px;
+  background-color: rgba(220, 230, 210, 0.5);
+  text-align: center;
+  border-radius: 5px;
+  transition: all 0.5s;
+  /* change this */
+  /* display: none; */
+}
+
+.hidden {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  padding: 10px 25px;
+  background-color: rgb(25, 25, 167);
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(170, 167, 167);
+  font-weight: bold;
+  transition: all 0.5s;
+  /* change this */
+  opacity: 0;
+}
+
+
+/*  Designing the footer */
+footer {
+  width: 96vw;
+  overflow-x: hidden;
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  font-size: 18px;
+  color: white;
+}
+
+.editor {
+  background-color: #4caf50;
+  padding: 10px 20px;
+  border-radius: 40px;
+  transition: all 0.3s;
+}
+
+.editor:hover {
+  transform: scale(1.2);
 }

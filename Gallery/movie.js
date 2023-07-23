@@ -36,7 +36,7 @@ fetch("src/movie.json")
             </div>
             <div class="imgTagRight">
               <p class="price">$ ${price.toFixed(2)}</p>
-              <button class="btn">Add to cart</button>
+              <button class="btn" onclick="addToCart(${title}, ${price.toFixed(2)})">Add to cart</button>
             </div>
           </div>
         </div>
